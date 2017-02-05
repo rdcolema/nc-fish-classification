@@ -1,5 +1,4 @@
 # Nature Conservancy Fish Classification
-
 Scripts/notebooks for The Nature Conservancy's fish classification competition
 
 - Current best score before blending: 0.886 log loss on LB from `ensemble_model.ipynb`
@@ -52,4 +51,4 @@ Combines submission files into simple ensemble
 - Relabeling the dataset also didn't lead to improved performance using these methods
 - Unable to get comparable performance from Resnet and Inception models. Might just be an issue of my implementation
 
-(credit to <a href="http://course.fast.ai/">Jeremy Howard</a>, <a href="https://github.com/pengpaiSH/Kaggle_NCFM">Pai Peng</a>, <a href="https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring/discussion/25902"> Naive Shuai</a>, <a href="https://www.kaggle.com/craigglastonbury/the-nature-conservancy-fisheries-monitoring/using-inceptionv3-features-svm-classifier">Craig Glastonbury</a>, and others for portions this code)
+(credit to <a href="http://course.fast.ai/">Jeremy Howard</a>, <a href="https://github.com/pengpaiSH/Kaggle_NCFM">Pai Peng</a>, <a href="https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring/discussion/25902"> Naive Shuai</a>, <a href="https://www.kaggle.com/craigglastonbury/the-nature-conservancy-fisheries-monitoring/using-inceptionv3-features-svm-classifier">Craig Glastonbury</a>, and others for portions of this code)
