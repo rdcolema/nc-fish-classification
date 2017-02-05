@@ -1,0 +1,2429 @@
+[
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 150.0000000000004,
+                "width": 66.00000000000011,
+                "x": 538.0000000000014,
+                "y": 352.00000000000085
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_07860.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 143.00000000000034,
+                "width": 54.000000000000114,
+                "x": 560.0000000000014,
+                "y": 353.00000000000085
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_07857.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 133.00000000000028,
+                "width": 93.00000000000023,
+                "x": 525.0000000000013,
+                "y": 365.0000000000009
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_07841.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 310.00000000000074,
+                "width": 487.0000000000012,
+                "x": 6.0,
+                "y": 494.0000000000012
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_07661.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 116.00000000000028,
+                "width": 30.0,
+                "x": 590.0000000000015,
+                "y": 347.00000000000085
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_07556.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 121.00000000000028,
+                "width": 70.00000000000011,
+                "x": 541.0000000000014,
+                "y": 361.0000000000009
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_07533.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 138.0000000000003,
+                "width": 564.0000000000014,
+                "x": 411.000000000001,
+                "y": 243.0000000000006
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_07498.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 80.00000000000017,
+                "width": 150.00000000000028,
+                "x": 478.0000000000012,
+                "y": 440.0000000000011
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_07484.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 310.00000000000074,
+                "width": 483.0000000000012,
+                "x": 8.0,
+                "y": 494.0000000000012
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_07473.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 210.00000000000048,
+                "width": 562.0000000000014,
+                "x": 405.00000000000097,
+                "y": 173.00000000000043
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_07414.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 150.00000000000034,
+                "width": 40.000000000000114,
+                "x": 581.0000000000014,
+                "y": 348.00000000000085
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_07392.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 63.00000000000017,
+                "width": 147.00000000000034,
+                "x": 477.00000000000114,
+                "y": 445.0000000000011
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_07282.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 113.00000000000023,
+                "width": 42.000000000000114,
+                "x": 576.0000000000014,
+                "y": 363.0000000000009
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_07221.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 68.00000000000017,
+                "width": 153.00000000000034,
+                "x": 474.00000000000114,
+                "y": 442.0000000000011
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_07080.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 313.00000000000074,
+                "width": 492.0000000000012,
+                "x": 6.0,
+                "y": 492.0000000000012
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_07056.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 232.00000000000057,
+                "width": 540.0000000000014,
+                "x": 376.0000000000009,
+                "y": 572.0000000000014
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_07022.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 231.00000000000057,
+                "width": 557.0000000000014,
+                "x": 367.0000000000009,
+                "y": 576.0000000000014
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_07003.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 69.00000000000017,
+                "width": 142.00000000000028,
+                "x": 480.0000000000012,
+                "y": 441.0000000000011
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_06956.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 111.00000000000028,
+                "width": 65.00000000000011,
+                "x": 501.00000000000125,
+                "y": 368.0000000000009
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_06913.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 147.00000000000034,
+                "width": 55.00000000000014,
+                "x": 127.00000000000031,
+                "y": 457.00000000000114
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_06903.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 230.00000000000057,
+                "width": 428.000000000001,
+                "x": 366.0000000000009,
+                "y": 573.0000000000014
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_06881.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 243.00000000000057,
+                "width": 349.0000000000008,
+                "x": 147.0000000000004,
+                "y": 561.0000000000014
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_06847.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 131.00000000000034,
+                "width": 65.00000000000011,
+                "x": 555.0000000000014,
+                "y": 360.00000000000085
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_06821.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 165.00000000000045,
+                "width": 641.0000000000016,
+                "x": 366.0000000000009,
+                "y": 578.0000000000014
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_06786.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 139.00000000000034,
+                "width": 42.000000000000114,
+                "x": 579.0000000000014,
+                "y": 358.00000000000085
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_06686.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 135.00000000000028,
+                "width": 86.00000000000023,
+                "x": 531.0000000000013,
+                "y": 364.0000000000009
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_06677.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 120.00000000000034,
+                "width": 62.000000000000156,
+                "x": 122.0000000000003,
+                "y": 467.00000000000114
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_06595.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 157.0000000000004,
+                "width": 544.0000000000014,
+                "x": 403.00000000000097,
+                "y": 230.00000000000057
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_06590.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 147.00000000000034,
+                "width": 58.000000000000114,
+                "x": 560.0000000000014,
+                "y": 350.00000000000085
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_06537.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 131.00000000000034,
+                "width": 54.00000000000014,
+                "x": 129.0000000000003,
+                "y": 465.00000000000114
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_06523.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 137.00000000000034,
+                "width": 55.00000000000014,
+                "x": 130.0000000000003,
+                "y": 455.00000000000114
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_06493.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 73.00000000000017,
+                "width": 157.00000000000045,
+                "x": 476.00000000000114,
+                "y": 441.0000000000011
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_06474.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 145.00000000000034,
+                "width": 62.000000000000114,
+                "x": 557.0000000000014,
+                "y": 363.0000000000009
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_06467.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 152.00000000000034,
+                "width": 61.000000000000114,
+                "x": 557.0000000000014,
+                "y": 346.00000000000085
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_06448.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 159.0000000000004,
+                "width": 542.0000000000014,
+                "x": 414.000000000001,
+                "y": 238.00000000000057
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_06444.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 169.00000000000045,
+                "width": 630.0000000000016,
+                "x": 372.0000000000009,
+                "y": 575.0000000000014
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_06410.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 134.00000000000034,
+                "width": 563.0000000000014,
+                "x": 405.00000000000097,
+                "y": 234.00000000000057
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_06385.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 230.00000000000057,
+                "width": 442.000000000001,
+                "x": 364.0000000000009,
+                "y": 577.0000000000014
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_06303.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 241.00000000000057,
+                "width": 338.0000000000008,
+                "x": 159.0000000000004,
+                "y": 563.0000000000014
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_06220.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 192.00000000000045,
+                "width": 401.00000000000097,
+                "x": 255.00000000000063,
+                "y": 161.0000000000004
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_06163.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 142.00000000000034,
+                "width": 69.00000000000011,
+                "x": 546.0000000000014,
+                "y": 350.00000000000085
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_06124.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 130.00000000000028,
+                "width": 49.000000000000114,
+                "x": 565.0000000000014,
+                "y": 347.00000000000085
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_06118.jpg"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_06082.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 76.00000000000017,
+                "width": 145.00000000000028,
+                "x": 479.0000000000012,
+                "y": 442.0000000000011
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_06013.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 77.00000000000017,
+                "width": 222.00000000000045,
+                "x": 681.0000000000017,
+                "y": 188.00000000000045
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_06006.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 79.00000000000017,
+                "width": 144.00000000000034,
+                "x": 477.00000000000114,
+                "y": 441.0000000000011
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_06000.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 106.00000000000028,
+                "width": 45.000000000000114,
+                "x": 555.0000000000014,
+                "y": 379.0000000000009
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_05942.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 87.00000000000017,
+                "width": 181.00000000000045,
+                "x": 409.000000000001,
+                "y": 445.0000000000011
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_05900.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 180.00000000000045,
+                "width": 482.00000000000125,
+                "x": 240.00000000000057,
+                "y": 205.0000000000005
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_05887.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 117.00000000000028,
+                "width": 33.0,
+                "x": 588.0000000000015,
+                "y": 343.00000000000085
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_05873.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 141.00000000000037,
+                "width": 516.0000000000013,
+                "x": 268.0000000000007,
+                "y": 222.00000000000054
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_05872.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 235.00000000000057,
+                "width": 433.000000000001,
+                "x": 370.0000000000009,
+                "y": 572.0000000000014
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_05762.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 98.00000000000028,
+                "width": 48.000000000000114,
+                "x": 556.0000000000014,
+                "y": 384.0000000000009
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_05685.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 184.00000000000045,
+                "width": 492.00000000000125,
+                "x": 239.0000000000006,
+                "y": 208.0000000000005
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_05579.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 228.00000000000057,
+                "width": 465.00000000000114,
+                "x": 361.0000000000009,
+                "y": 574.0000000000014
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_05532.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 147.00000000000034,
+                "width": 54.000000000000114,
+                "x": 562.0000000000014,
+                "y": 346.00000000000085
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_05519.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 144.00000000000034,
+                "width": 45.000000000000114,
+                "x": 578.0000000000014,
+                "y": 351.00000000000085
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_05504.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 232.00000000000057,
+                "width": 535.0000000000014,
+                "x": 359.00000000000085,
+                "y": 575.0000000000014
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_05464.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 129.00000000000028,
+                "width": 78.00000000000011,
+                "x": 538.0000000000014,
+                "y": 364.0000000000009
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_05399.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 71.00000000000017,
+                "width": 185.0000000000004,
+                "x": 442.0000000000011,
+                "y": 449.0000000000011
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_05391.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 76.00000000000017,
+                "width": 144.00000000000028,
+                "x": 480.0000000000012,
+                "y": 439.0000000000011
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_05366.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 128.00000000000028,
+                "width": 59.000000000000114,
+                "x": 561.0000000000014,
+                "y": 365.0000000000009
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_05327.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 232.00000000000057,
+                "width": 511.00000000000125,
+                "x": 370.0000000000009,
+                "y": 573.0000000000014
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_05300.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 72.00000000000017,
+                "width": 151.00000000000034,
+                "x": 473.00000000000114,
+                "y": 440.0000000000011
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_05257.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 182.00000000000045,
+                "width": 627.0000000000015,
+                "x": 367.0000000000009,
+                "y": 575.0000000000014
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_05249.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 187.00000000000045,
+                "width": 633.0000000000015,
+                "x": 367.0000000000009,
+                "y": 574.0000000000014
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_05231.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 76.00000000000017,
+                "width": 144.00000000000028,
+                "x": 480.0000000000012,
+                "y": 439.0000000000011
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_05126.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 185.00000000000048,
+                "width": 491.00000000000125,
+                "x": 237.00000000000057,
+                "y": 202.00000000000048
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_05019.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 234.00000000000057,
+                "width": 503.00000000000125,
+                "x": 368.0000000000009,
+                "y": 572.0000000000014
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_04910.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 139.00000000000034,
+                "width": 54.000000000000114,
+                "x": 562.0000000000014,
+                "y": 347.00000000000085
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_04857.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 310.00000000000074,
+                "width": 494.0000000000012,
+                "x": 3.0,
+                "y": 495.0000000000012
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_04855.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 79.00000000000017,
+                "width": 153.00000000000034,
+                "x": 472.00000000000114,
+                "y": 440.0000000000011
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_04854.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 179.00000000000045,
+                "width": 640.0000000000016,
+                "x": 363.0000000000009,
+                "y": 575.0000000000014
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_04837.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 78.00000000000017,
+                "width": 148.00000000000028,
+                "x": 478.0000000000012,
+                "y": 441.0000000000011
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_04819.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 66.00000000000017,
+                "width": 144.00000000000034,
+                "x": 477.00000000000114,
+                "y": 445.0000000000011
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_04791.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 116.00000000000028,
+                "width": 69.00000000000011,
+                "x": 544.0000000000014,
+                "y": 360.00000000000085
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_04710.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 268.0000000000006,
+                "width": 503.0000000000012,
+                "x": 347.00000000000085,
+                "y": 136.00000000000034
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_04682.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 238.00000000000057,
+                "width": 300.00000000000074,
+                "x": 192.00000000000045,
+                "y": 563.0000000000014
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_04650.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 67.00000000000017,
+                "width": 144.00000000000028,
+                "x": 478.0000000000012,
+                "y": 441.0000000000011
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_04618.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 136.00000000000034,
+                "width": 57.00000000000014,
+                "x": 128.0000000000003,
+                "y": 460.00000000000114
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_04535.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 82.00000000000017,
+                "width": 151.0000000000004,
+                "x": 479.0000000000012,
+                "y": 435.0000000000011
+            },
+            {
+                "class": "rect",
+                "height": 147.00000000000045,
+                "width": 71.00000000000017,
+                "x": 117.00000000000028,
+                "y": 534.0000000000013
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_04359.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 141.00000000000034,
+                "width": 66.00000000000017,
+                "x": 117.00000000000028,
+                "y": 537.0000000000014
+            },
+            {
+                "class": "rect",
+                "height": 74.00000000000017,
+                "width": 148.00000000000034,
+                "x": 476.00000000000114,
+                "y": 442.0000000000011
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_04343.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 139.00000000000034,
+                "width": 66.00000000000016,
+                "x": 122.0000000000003,
+                "y": 455.00000000000114
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_04245.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 76.00000000000017,
+                "width": 151.00000000000034,
+                "x": 473.00000000000114,
+                "y": 440.0000000000011
+            },
+            {
+                "class": "rect",
+                "height": 134.00000000000034,
+                "width": 73.00000000000017,
+                "x": 115.00000000000028,
+                "y": 542.0000000000014
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_04235.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 144.00000000000034,
+                "width": 491.00000000000125,
+                "x": 284.0000000000007,
+                "y": 209.0000000000005
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_04177.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 233.00000000000057,
+                "width": 555.0000000000014,
+                "x": 369.0000000000009,
+                "y": 573.0000000000014
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_04170.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 70.00000000000017,
+                "width": 144.00000000000028,
+                "x": 479.0000000000012,
+                "y": 439.0000000000011
+            },
+            {
+                "class": "rect",
+                "height": 142.00000000000045,
+                "width": 72.00000000000017,
+                "x": 118.00000000000028,
+                "y": 534.0000000000013
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_04161.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 104.00000000000028,
+                "width": 53.000000000000114,
+                "x": 548.0000000000014,
+                "y": 381.0000000000009
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_04131.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 145.00000000000034,
+                "width": 59.000000000000114,
+                "x": 562.0000000000014,
+                "y": 363.0000000000009
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_04110.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 123.00000000000028,
+                "width": 59.000000000000114,
+                "x": 563.0000000000014,
+                "y": 361.0000000000009
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_04050.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 149.00000000000034,
+                "width": 65.00000000000011,
+                "x": 542.0000000000014,
+                "y": 346.00000000000085
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_03983.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 70.00000000000017,
+                "width": 148.00000000000034,
+                "x": 476.00000000000114,
+                "y": 442.0000000000011
+            },
+            {
+                "class": "rect",
+                "height": 138.00000000000034,
+                "width": 70.00000000000017,
+                "x": 116.00000000000028,
+                "y": 538.0000000000014
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_03976.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 138.00000000000034,
+                "width": 75.00000000000023,
+                "x": 534.0000000000013,
+                "y": 353.00000000000085
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_03971.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 169.0000000000004,
+                "width": 416.000000000001,
+                "x": 234.00000000000057,
+                "y": 186.00000000000045
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_03962.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 71.00000000000017,
+                "width": 157.00000000000034,
+                "x": 471.00000000000114,
+                "y": 439.0000000000011
+            },
+            {
+                "class": "rect",
+                "height": 130.00000000000023,
+                "width": 74.00000000000018,
+                "x": 112.00000000000027,
+                "y": 542.0000000000014
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_03791.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 243.00000000000057,
+                "width": 458.00000000000114,
+                "x": 369.0000000000009,
+                "y": 566.0000000000014
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_03770.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 62.00000000000017,
+                "width": 149.00000000000034,
+                "x": 475.00000000000114,
+                "y": 441.0000000000011
+            },
+            {
+                "class": "rect",
+                "height": 128.00000000000023,
+                "width": 66.00000000000017,
+                "x": 118.00000000000028,
+                "y": 542.0000000000014
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_03712.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 242.00000000000057,
+                "width": 508.00000000000125,
+                "x": 315.0000000000008,
+                "y": 141.00000000000034
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_03525.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 143.00000000000034,
+                "width": 494.00000000000125,
+                "x": 248.0000000000006,
+                "y": 231.00000000000057
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_03521.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 143.00000000000034,
+                "width": 526.0000000000013,
+                "x": 409.000000000001,
+                "y": 236.00000000000057
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_03507.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 175.0000000000004,
+                "width": 485.00000000000125,
+                "x": 238.00000000000057,
+                "y": 206.0000000000005
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_03385.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 118.00000000000028,
+                "width": 54.000000000000114,
+                "x": 563.0000000000014,
+                "y": 347.00000000000085
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_03353.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 240.00000000000057,
+                "width": 312.0000000000008,
+                "x": 179.0000000000004,
+                "y": 565.0000000000014
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_03351.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 311.00000000000074,
+                "width": 486.0000000000012,
+                "x": 9.0,
+                "y": 493.0000000000012
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_03305.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 65.00000000000017,
+                "width": 148.00000000000034,
+                "x": 477.00000000000114,
+                "y": 442.0000000000011
+            },
+            {
+                "class": "rect",
+                "height": 142.00000000000034,
+                "width": 65.00000000000016,
+                "x": 113.00000000000027,
+                "y": 532.0000000000013
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_03241.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 104.00000000000023,
+                "width": 45.000000000000114,
+                "x": 573.0000000000014,
+                "y": 369.0000000000009
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_03170.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 149.0000000000004,
+                "width": 68.00000000000017,
+                "x": 126.00000000000031,
+                "y": 451.0000000000011
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_03168.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 182.00000000000043,
+                "width": 497.00000000000125,
+                "x": 235.00000000000057,
+                "y": 201.00000000000048
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_03148.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 135.00000000000028,
+                "width": 84.00000000000023,
+                "x": 531.0000000000013,
+                "y": 362.0000000000009
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_03131.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 213.00000000000048,
+                "width": 575.0000000000014,
+                "x": 391.00000000000097,
+                "y": 170.00000000000043
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_03117.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 314.00000000000074,
+                "width": 489.0000000000012,
+                "x": 3.0,
+                "y": 494.0000000000012
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_03057.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 305.00000000000074,
+                "width": 488.0000000000012,
+                "x": 8.0,
+                "y": 496.0000000000012
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_02987.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 139.00000000000034,
+                "width": 62.000000000000156,
+                "x": 123.0000000000003,
+                "y": 458.00000000000114
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_02944.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 71.00000000000017,
+                "width": 147.00000000000028,
+                "x": 479.0000000000012,
+                "y": 439.0000000000011
+            },
+            {
+                "class": "rect",
+                "height": 135.00000000000023,
+                "width": 70.00000000000018,
+                "x": 113.00000000000027,
+                "y": 539.0000000000014
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_02867.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 75.00000000000017,
+                "width": 147.00000000000028,
+                "x": 479.0000000000012,
+                "y": 439.0000000000011
+            },
+            {
+                "class": "rect",
+                "height": 132.00000000000023,
+                "width": 71.00000000000017,
+                "x": 118.00000000000028,
+                "y": 542.0000000000014
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_02790.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 75.00000000000017,
+                "width": 150.00000000000034,
+                "x": 474.00000000000114,
+                "y": 442.0000000000011
+            },
+            {
+                "class": "rect",
+                "height": 129.00000000000023,
+                "width": 69.00000000000017,
+                "x": 117.00000000000028,
+                "y": 545.0000000000014
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_02744.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 131.00000000000034,
+                "width": 69.00000000000011,
+                "x": 544.0000000000014,
+                "y": 359.00000000000085
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_02732.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 77.00000000000017,
+                "width": 147.00000000000034,
+                "x": 476.00000000000114,
+                "y": 439.0000000000011
+            },
+            {
+                "class": "rect",
+                "height": 134.00000000000023,
+                "width": 65.00000000000017,
+                "x": 119.00000000000028,
+                "y": 539.0000000000014
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_02718.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 137.00000000000034,
+                "width": 54.00000000000014,
+                "x": 130.0000000000003,
+                "y": 457.00000000000114
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_02624.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 223.00000000000057,
+                "width": 466.00000000000114,
+                "x": 378.0000000000009,
+                "y": 576.0000000000014
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_02558.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 188.00000000000043,
+                "width": 503.00000000000125,
+                "x": 241.0000000000006,
+                "y": 194.00000000000048
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_02557.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 126.00000000000028,
+                "width": 60.000000000000114,
+                "x": 555.0000000000014,
+                "y": 350.00000000000085
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_02478.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 125.00000000000028,
+                "width": 70.00000000000011,
+                "x": 547.0000000000014,
+                "y": 351.00000000000085
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_02469.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 71.00000000000017,
+                "width": 150.00000000000034,
+                "x": 476.00000000000114,
+                "y": 444.0000000000011
+            },
+            {
+                "class": "rect",
+                "height": 127.00000000000023,
+                "width": 63.00000000000014,
+                "x": 115.00000000000028,
+                "y": 542.0000000000014
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_02348.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 131.00000000000034,
+                "width": 75.00000000000011,
+                "x": 551.0000000000014,
+                "y": 353.00000000000085
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_02288.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 114.00000000000028,
+                "width": 53.000000000000114,
+                "x": 548.0000000000014,
+                "y": 370.0000000000009
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_02271.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 195.00000000000045,
+                "width": 420.000000000001,
+                "x": 215.00000000000057,
+                "y": 199.0000000000005
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_02260.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 177.00000000000045,
+                "width": 618.0000000000015,
+                "x": 371.0000000000009,
+                "y": 577.0000000000014
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_02259.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 140.00000000000034,
+                "width": 30.0,
+                "x": 588.0000000000015,
+                "y": 349.00000000000085
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_02224.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 220.00000000000057,
+                "width": 477.00000000000114,
+                "x": 367.0000000000009,
+                "y": 579.0000000000014
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_02176.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 234.0000000000006,
+                "width": 495.0000000000012,
+                "x": 400.00000000000097,
+                "y": 156.00000000000037
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_02169.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 243.00000000000057,
+                "width": 274.0000000000007,
+                "x": 221.0000000000005,
+                "y": 559.0000000000014
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_02114.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 182.00000000000045,
+                "width": 634.0000000000015,
+                "x": 366.0000000000009,
+                "y": 571.0000000000014
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_02095.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 232.00000000000057,
+                "width": 397.0000000000009,
+                "x": 365.0000000000009,
+                "y": 573.0000000000014
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_02094.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 156.0000000000004,
+                "width": 40.0,
+                "x": 582.0000000000015,
+                "y": 346.00000000000085
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_02088.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 134.00000000000034,
+                "width": 51.000000000000114,
+                "x": 134.00000000000034,
+                "y": 461.00000000000114
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_02087.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 130.00000000000034,
+                "width": 55.00000000000014,
+                "x": 130.0000000000003,
+                "y": 466.00000000000114
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_02080.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 138.00000000000034,
+                "width": 486.00000000000114,
+                "x": 232.00000000000057,
+                "y": 231.00000000000057
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_01986.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 138.00000000000034,
+                "width": 60.000000000000156,
+                "x": 123.0000000000003,
+                "y": 461.00000000000114
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_01942.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 157.00000000000034,
+                "width": 494.00000000000125,
+                "x": 237.00000000000057,
+                "y": 227.00000000000057
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_01916.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 175.0000000000004,
+                "width": 482.00000000000114,
+                "x": 237.00000000000057,
+                "y": 208.0000000000005
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_01881.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 90.00000000000017,
+                "width": 187.00000000000045,
+                "x": 422.000000000001,
+                "y": 437.0000000000011
+            },
+            {
+                "class": "rect",
+                "height": 135.00000000000023,
+                "width": 68.00000000000018,
+                "x": 113.00000000000027,
+                "y": 537.0000000000014
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_01820.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 115.00000000000028,
+                "width": 30.0,
+                "x": 593.0000000000015,
+                "y": 355.00000000000085
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_01795.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 137.00000000000034,
+                "width": 42.000000000000114,
+                "x": 578.0000000000014,
+                "y": 358.00000000000085
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_01780.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 132.00000000000034,
+                "width": 56.000000000000156,
+                "x": 125.0000000000003,
+                "y": 467.00000000000114
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_01759.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 307.00000000000074,
+                "width": 487.0000000000012,
+                "x": 8.0,
+                "y": 496.0000000000012
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_01572.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 134.00000000000023,
+                "width": 65.00000000000017,
+                "x": 117.00000000000028,
+                "y": 537.0000000000014
+            },
+            {
+                "class": "rect",
+                "height": 75.00000000000017,
+                "width": 149.0000000000004,
+                "x": 480.0000000000012,
+                "y": 442.0000000000011
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_01546.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 226.00000000000057,
+                "width": 600.0000000000015,
+                "x": 372.0000000000009,
+                "y": 577.0000000000014
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_01524.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 127.00000000000028,
+                "width": 81.00000000000023,
+                "x": 533.0000000000013,
+                "y": 370.0000000000009
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_01432.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 118.00000000000028,
+                "width": 91.00000000000023,
+                "x": 522.0000000000013,
+                "y": 364.0000000000009
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_01406.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 222.00000000000057,
+                "width": 418.000000000001,
+                "x": 369.0000000000009,
+                "y": 575.0000000000014
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_01342.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 137.00000000000023,
+                "width": 60.00000000000013,
+                "x": 120.0000000000003,
+                "y": 536.0000000000014
+            },
+            {
+                "class": "rect",
+                "height": 68.00000000000017,
+                "width": 143.00000000000028,
+                "x": 478.0000000000012,
+                "y": 439.0000000000011
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_01324.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 223.00000000000057,
+                "width": 442.000000000001,
+                "x": 365.0000000000009,
+                "y": 578.0000000000014
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_01307.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 305.00000000000074,
+                "width": 491.0000000000012,
+                "x": 3.0,
+                "y": 499.0000000000012
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_01298.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 124.00000000000034,
+                "width": 67.00000000000011,
+                "x": 547.0000000000014,
+                "y": 359.00000000000085
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_01182.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 138.00000000000034,
+                "width": 59.000000000000114,
+                "x": 555.0000000000014,
+                "y": 353.00000000000085
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_01161.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 218.00000000000057,
+                "width": 400.00000000000097,
+                "x": 355.00000000000085,
+                "y": 577.0000000000014
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_01061.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 127.00000000000034,
+                "width": 54.000000000000114,
+                "x": 126.00000000000031,
+                "y": 466.00000000000114
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_00903.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 138.00000000000034,
+                "width": 63.00000000000017,
+                "x": 118.00000000000028,
+                "y": 534.0000000000013
+            },
+            {
+                "class": "rect",
+                "height": 72.00000000000017,
+                "width": 143.00000000000028,
+                "x": 481.0000000000012,
+                "y": 438.0000000000011
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_00736.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 143.00000000000034,
+                "width": 53.000000000000114,
+                "x": 557.0000000000014,
+                "y": 353.00000000000085
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_00703.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 232.00000000000057,
+                "width": 400.0000000000009,
+                "x": 364.0000000000009,
+                "y": 571.0000000000014
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_00685.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 111.00000000000028,
+                "width": 71.00000000000011,
+                "x": 541.0000000000014,
+                "y": 370.0000000000009
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_00600.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 67.00000000000017,
+                "width": 149.0000000000004,
+                "x": 480.0000000000012,
+                "y": 445.0000000000011
+            },
+            {
+                "class": "rect",
+                "height": 134.00000000000034,
+                "width": 77.00000000000017,
+                "x": 115.00000000000028,
+                "y": 542.0000000000014
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_00560.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 227.00000000000057,
+                "width": 455.00000000000114,
+                "x": 368.0000000000009,
+                "y": 577.0000000000014
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_00510.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 123.00000000000028,
+                "width": 70.00000000000017,
+                "x": 497.0000000000012,
+                "y": 364.0000000000009
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_00478.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 260.0000000000007,
+                "width": 509.00000000000125,
+                "x": 375.0000000000009,
+                "y": 148.00000000000034
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_00427.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 102.00000000000023,
+                "width": 55.000000000000114,
+                "x": 551.0000000000014,
+                "y": 348.00000000000085
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_00409.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 181.00000000000045,
+                "width": 629.0000000000016,
+                "x": 376.0000000000009,
+                "y": 579.0000000000014
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_00391.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 301.00000000000074,
+                "width": 493.0000000000012,
+                "x": 2.0,
+                "y": 500.0000000000012
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_00365.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 172.00000000000045,
+                "width": 629.0000000000015,
+                "x": 365.0000000000009,
+                "y": 576.0000000000014
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_00265.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 139.0000000000003,
+                "width": 495.00000000000125,
+                "x": 228.00000000000057,
+                "y": 243.0000000000006
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_00247.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 181.00000000000045,
+                "width": 632.0000000000016,
+                "x": 370.0000000000009,
+                "y": 575.0000000000014
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_00245.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 103.00000000000023,
+                "width": 81.00000000000017,
+                "x": 489.0000000000012,
+                "y": 368.0000000000009
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_00235.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 69.00000000000017,
+                "width": 144.00000000000034,
+                "x": 477.00000000000114,
+                "y": 441.0000000000011
+            },
+            {
+                "class": "rect",
+                "height": 128.00000000000023,
+                "width": 69.00000000000017,
+                "x": 119.00000000000028,
+                "y": 543.0000000000014
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_00096.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 73.00000000000017,
+                "width": 149.00000000000034,
+                "x": 475.00000000000114,
+                "y": 440.0000000000011
+            },
+            {
+                "class": "rect",
+                "height": 121.00000000000023,
+                "width": 71.00000000000017,
+                "x": 116.00000000000028,
+                "y": 549.0000000000014
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_00072.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 123.00000000000023,
+                "width": 71.00000000000017,
+                "x": 116.00000000000028,
+                "y": 547.0000000000014
+            },
+            {
+                "class": "rect",
+                "height": 71.00000000000017,
+                "width": 157.00000000000034,
+                "x": 471.00000000000114,
+                "y": 442.0000000000011
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/SHARK/img_00033.jpg"
+    }
+]

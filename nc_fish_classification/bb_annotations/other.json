@@ -1,0 +1,4519 @@
+[
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 113.0,
+                "width": 108.0,
+                "x": 634.0,
+                "y": 378.0
+            },
+            {
+                "class": "rect",
+                "height": 265.0,
+                "width": 85.0,
+                "x": 764.0,
+                "y": 265.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_07923.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 87.0,
+                "width": 221.0,
+                "x": 360.0,
+                "y": 427.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_07922.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 179.0,
+                "width": 491.0,
+                "x": 507.0,
+                "y": 182.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_07916.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 181.0,
+                "width": 410.0,
+                "x": 328.0,
+                "y": 335.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_07864.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 166.0,
+                "width": 495.0,
+                "x": 506.0,
+                "y": 198.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_07840.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 234.0,
+                "width": 94.0,
+                "x": 791.0,
+                "y": 591.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_07839.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 246.0,
+                "width": 505.0,
+                "x": 724.0,
+                "y": 338.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_07806.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 125.0,
+                "width": 351.0,
+                "x": 320.0,
+                "y": 51.0
+            },
+            {
+                "class": "rect",
+                "height": 107.0,
+                "width": 289.0,
+                "x": 571.0,
+                "y": 189.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_07779.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 158.0,
+                "width": 72.0,
+                "x": 448.0,
+                "y": 355.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_07770.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 220.0,
+                "width": 118.0,
+                "x": 552.0,
+                "y": 396.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_07751.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 147.0,
+                "width": 135.0,
+                "x": 804.0,
+                "y": 283.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_07743.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 264.0,
+                "width": 94.0,
+                "x": 758.0,
+                "y": 264.0
+            },
+            {
+                "class": "rect",
+                "height": 135.0,
+                "width": 104.0,
+                "x": 634.0,
+                "y": 355.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_07729.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 79.0,
+                "width": 295.0,
+                "x": 436.0,
+                "y": 489.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_07627.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 79.0,
+                "width": 135.0,
+                "x": 427.0,
+                "y": 410.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_07570.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 84.0,
+                "width": 130.0,
+                "x": 412.0,
+                "y": 405.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_07547.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 43.0,
+                "width": 182.0,
+                "x": 415.0,
+                "y": 484.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_07546.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 157.0,
+                "width": 255.0,
+                "x": 725.0,
+                "y": 331.0
+            },
+            {
+                "class": "rect",
+                "height": 134.0,
+                "width": 266.0,
+                "x": 367.0,
+                "y": 56.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_07536.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 141.0,
+                "width": 124.0,
+                "x": 805.0,
+                "y": 284.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_07503.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 132.0,
+                "width": 108.0,
+                "x": 629.0,
+                "y": 357.0
+            },
+            {
+                "class": "rect",
+                "height": 278.0,
+                "width": 171.0,
+                "x": 763.0,
+                "y": 253.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_07483.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 243.0,
+                "width": 511.0,
+                "x": 725.0,
+                "y": 341.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_07457.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 51.0,
+                "width": 178.0,
+                "x": 416.0,
+                "y": 485.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_07451.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 146.0,
+                "width": 125.0,
+                "x": 803.0,
+                "y": 286.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_07415.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 105.0,
+                "width": 88.0,
+                "x": 751.0,
+                "y": 334.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_07405.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 247.0,
+                "width": 512.0,
+                "x": 721.0,
+                "y": 337.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_07399.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 89.0,
+                "width": 123.0,
+                "x": 504.0,
+                "y": 424.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_07365.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 40.0,
+                "width": 155.0,
+                "x": 435.0,
+                "y": 485.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_07359.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 103.0,
+                "width": 88.0,
+                "x": 753.0,
+                "y": 337.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_07305.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 105.0,
+                "width": 98.0,
+                "x": 747.0,
+                "y": 335.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_07279.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 45.0,
+                "width": 175.0,
+                "x": 421.0,
+                "y": 482.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_07266.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 171.0,
+                "width": 475.0,
+                "x": 532.0,
+                "y": 186.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_07254.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 171.0,
+                "width": 421.0,
+                "x": 326.0,
+                "y": 335.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_07227.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 156.0,
+                "width": 397.0,
+                "x": 712.0,
+                "y": 187.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_07220.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 167.0,
+                "width": 58.0,
+                "x": 424.0,
+                "y": 359.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_07139.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 69.0,
+                "width": 134.0,
+                "x": 483.0,
+                "y": 416.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_07077.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 111.0,
+                "width": 166.0,
+                "x": 456.0,
+                "y": 419.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_07073.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 32.0,
+                "width": 159.0,
+                "x": 438.0,
+                "y": 488.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_07042.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 84.0,
+                "width": 124.0,
+                "x": 389.0,
+                "y": 397.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_07019.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 177.0,
+                "width": 72.0,
+                "x": 538.0,
+                "y": 348.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_06984.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 244.0,
+                "width": 364.0,
+                "x": 631.0,
+                "y": 3.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_06878.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 128.0,
+                "width": 97.0,
+                "x": 637.0,
+                "y": 361.0
+            },
+            {
+                "class": "rect",
+                "height": 267.0,
+                "width": 101.0,
+                "x": 762.0,
+                "y": 262.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_06877.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 189.0,
+                "width": 158.0,
+                "x": 625.0,
+                "y": 300.0
+            },
+            {
+                "class": "rect",
+                "height": 267.0,
+                "width": 93.0,
+                "x": 765.0,
+                "y": 262.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_06863.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 76.0,
+                "width": 131.0,
+                "x": 343.0,
+                "y": 396.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_06818.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 134.0,
+                "width": 103.0,
+                "x": 636.0,
+                "y": 362.0
+            },
+            {
+                "class": "rect",
+                "height": 269.0,
+                "width": 168.0,
+                "x": 766.0,
+                "y": 258.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_06785.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 127.0,
+                "width": 104.0,
+                "x": 633.0,
+                "y": 363.0
+            },
+            {
+                "class": "rect",
+                "height": 262.0,
+                "width": 104.0,
+                "x": 765.0,
+                "y": 262.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_06766.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 146.0,
+                "width": 417.0,
+                "x": 702.0,
+                "y": 187.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_06740.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 112.0,
+                "width": 219.0,
+                "x": 403.0,
+                "y": 422.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_06719.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 133.0,
+                "width": 283.0,
+                "x": 709.0,
+                "y": 237.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_06708.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 113.0,
+                "width": 248.0,
+                "x": 420.0,
+                "y": 53.0
+            },
+            {
+                "class": "rect",
+                "height": 112.0,
+                "width": 299.0,
+                "x": 564.0,
+                "y": 192.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_06706.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 204.0,
+                "width": 220.0,
+                "x": 106.0,
+                "y": 177.0
+            },
+            {
+                "class": "rect",
+                "height": 128.0,
+                "width": 273.0,
+                "x": 689.0,
+                "y": 132.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_06700.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 113.0,
+                "width": 180.0,
+                "x": 445.0,
+                "y": 419.0
+            },
+            {
+                "class": "rect",
+                "height": 159.0,
+                "width": 44.0,
+                "x": 123.0,
+                "y": 471.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_06699.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 99.0,
+                "width": 235.0,
+                "x": 388.0,
+                "y": 433.0
+            },
+            {
+                "class": "rect",
+                "height": 152.0,
+                "width": 43.0,
+                "x": 122.0,
+                "y": 469.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_06651.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 231.0,
+                "width": 477.0,
+                "x": 756.0,
+                "y": 347.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_06584.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 180.0,
+                "width": 419.0,
+                "x": 321.0,
+                "y": 336.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_06578.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 219.0,
+                "width": 108.0,
+                "x": 559.0,
+                "y": 398.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_06463.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 73.0,
+                "width": 129.0,
+                "x": 411.0,
+                "y": 410.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_06419.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 177.0,
+                "width": 429.0,
+                "x": 313.0,
+                "y": 334.0
+            },
+            {
+                "class": "rect",
+                "height": 183.0,
+                "width": 58.0,
+                "x": 93.0,
+                "y": 535.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_06382.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 183.0,
+                "width": 97.0,
+                "x": 383.0,
+                "y": 345.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_06363.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 103.0,
+                "width": 89.0,
+                "x": 752.0,
+                "y": 332.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_06239.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 182.0,
+                "width": 187.0,
+                "x": 103.0,
+                "y": 193.0
+            },
+            {
+                "class": "rect",
+                "height": 118.0,
+                "width": 274.0,
+                "x": 689.0,
+                "y": 142.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_06199.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 78.0,
+                "width": 125.0,
+                "x": 427.0,
+                "y": 407.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_06155.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 214.0,
+                "width": 133.0,
+                "x": 550.0,
+                "y": 401.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_06149.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 152.0,
+                "width": 400.0,
+                "x": 705.0,
+                "y": 187.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_06136.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 192.0,
+                "width": 161.0,
+                "x": 625.0,
+                "y": 299.0
+            },
+            {
+                "class": "rect",
+                "height": 262.0,
+                "width": 86.0,
+                "x": 765.0,
+                "y": 266.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_06133.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 216.0,
+                "width": 125.0,
+                "x": 553.0,
+                "y": 400.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_06111.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 156.0,
+                "width": 116.0,
+                "x": 452.0,
+                "y": 356.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_06105.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 185.0,
+                "width": 95.0,
+                "x": 384.0,
+                "y": 345.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_06093.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 74.0,
+                "width": 232.0,
+                "x": 350.0,
+                "y": 427.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_06087.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 169.0,
+                "width": 197.0,
+                "x": 712.0,
+                "y": 2.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_06070.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 196.0,
+                "width": 151.0,
+                "x": 632.0,
+                "y": 296.0
+            },
+            {
+                "class": "rect",
+                "height": 264.0,
+                "width": 99.0,
+                "x": 764.0,
+                "y": 262.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_06063.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 100.0,
+                "width": 153.0,
+                "x": 721.0,
+                "y": 3.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_06044.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 196.0,
+                "width": 91.0,
+                "x": 388.0,
+                "y": 340.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_06028.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 132.0,
+                "width": 407.0,
+                "x": 704.0,
+                "y": 202.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_06005.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 190.0,
+                "width": 81.0,
+                "x": 532.0,
+                "y": 344.0
+            },
+            {
+                "class": "rect",
+                "height": 196.0,
+                "width": 76.0,
+                "x": 119.0,
+                "y": 479.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_05997.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 190.0,
+                "width": 159.0,
+                "x": 630.0,
+                "y": 303.0
+            },
+            {
+                "class": "rect",
+                "height": 262.0,
+                "width": 124.0,
+                "x": 764.0,
+                "y": 275.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_05954.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 73.0,
+                "width": 230.0,
+                "x": 356.0,
+                "y": 426.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_05943.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 138.0,
+                "width": 99.0,
+                "x": 640.0,
+                "y": 356.0
+            },
+            {
+                "class": "rect",
+                "height": 265.0,
+                "width": 97.0,
+                "x": 762.0,
+                "y": 262.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_05912.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 122.0,
+                "width": 98.0,
+                "x": 636.0,
+                "y": 367.0
+            },
+            {
+                "class": "rect",
+                "height": 276.0,
+                "width": 126.0,
+                "x": 761.0,
+                "y": 267.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_05895.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 74.0,
+                "width": 142.0,
+                "x": 464.0,
+                "y": 411.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_05860.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 74.0,
+                "width": 231.0,
+                "x": 352.0,
+                "y": 426.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_05834.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 125.0,
+                "width": 99.0,
+                "x": 630.0,
+                "y": 366.0
+            },
+            {
+                "class": "rect",
+                "height": 272.0,
+                "width": 100.0,
+                "x": 765.0,
+                "y": 260.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_05756.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 181.0,
+                "width": 76.0,
+                "x": 531.0,
+                "y": 345.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_05753.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 169.0,
+                "width": 498.0,
+                "x": 499.0,
+                "y": 193.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_05751.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 134.0,
+                "width": 405.0,
+                "x": 705.0,
+                "y": 203.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_05715.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 177.0,
+                "width": 69.0,
+                "x": 535.0,
+                "y": 348.0
+            },
+            {
+                "class": "rect",
+                "height": 195.0,
+                "width": 55.0,
+                "x": 132.0,
+                "y": 474.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_05711.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 184.0,
+                "width": 429.0,
+                "x": 318.0,
+                "y": 331.0
+            },
+            {
+                "class": "rect",
+                "height": 178.0,
+                "width": 63.0,
+                "x": 91.0,
+                "y": 537.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_05704.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 238.0,
+                "width": 368.0,
+                "x": 635.0,
+                "y": 2.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_05689.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 117.0,
+                "width": 274.0,
+                "x": 601.0,
+                "y": 457.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_05645.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 124.0,
+                "width": 263.0,
+                "x": 762.0,
+                "y": 342.0
+            },
+            {
+                "class": "rect",
+                "height": 110.0,
+                "width": 241.0,
+                "x": 387.0,
+                "y": 78.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_05607.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 253.0,
+                "width": 512.0,
+                "x": 725.0,
+                "y": 333.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_05598.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 162.0,
+                "width": 97.0,
+                "x": 447.0,
+                "y": 352.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_05546.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 154.0,
+                "width": 121.0,
+                "x": 811.0,
+                "y": 274.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_05540.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 143.0,
+                "width": 115.0,
+                "x": 575.0,
+                "y": 575.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_05502.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 181.0,
+                "width": 69.0,
+                "x": 534.0,
+                "y": 346.0
+            },
+            {
+                "class": "rect",
+                "height": 199.0,
+                "width": 85.0,
+                "x": 115.0,
+                "y": 481.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_05490.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 115.0,
+                "width": 258.0,
+                "x": 393.0,
+                "y": 153.0
+            },
+            {
+                "class": "rect",
+                "height": 129.0,
+                "width": 225.0,
+                "x": 129.0,
+                "y": 432.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_05425.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 101.0,
+                "width": 87.0,
+                "x": 752.0,
+                "y": 335.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_05413.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 165.0,
+                "width": 500.0,
+                "x": 512.0,
+                "y": 199.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_05345.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 142.0,
+                "width": 186.0,
+                "x": 446.0,
+                "y": 325.0
+            },
+            {
+                "class": "rect",
+                "height": 196.0,
+                "width": 88.0,
+                "x": 117.0,
+                "y": 482.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_05310.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 87.0,
+                "width": 126.0,
+                "x": 369.0,
+                "y": 388.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_05287.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 149.0,
+                "width": 407.0,
+                "x": 697.0,
+                "y": 188.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_05274.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 148.0,
+                "width": 128.0,
+                "x": 805.0,
+                "y": 284.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_05239.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 174.0,
+                "width": 428.0,
+                "x": 309.0,
+                "y": 334.0
+            },
+            {
+                "class": "rect",
+                "height": 186.0,
+                "width": 61.0,
+                "x": 93.0,
+                "y": 534.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_05223.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 129.0,
+                "width": 107.0,
+                "x": 628.0,
+                "y": 360.0
+            },
+            {
+                "class": "rect",
+                "height": 268.0,
+                "width": 99.0,
+                "x": 761.0,
+                "y": 268.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_05216.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 186.0,
+                "width": 87.0,
+                "x": 392.0,
+                "y": 346.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_05155.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 70.0,
+                "width": 248.0,
+                "x": 344.0,
+                "y": 401.0
+            },
+            {
+                "class": "rect",
+                "height": 216.0,
+                "width": 60.0,
+                "x": 144.0,
+                "y": 455.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_05141.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 87.0,
+                "width": 119.0,
+                "x": 365.0,
+                "y": 386.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_05133.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 135.0,
+                "width": 103.0,
+                "x": 635.0,
+                "y": 360.0
+            },
+            {
+                "class": "rect",
+                "height": 267.0,
+                "width": 116.0,
+                "x": 760.0,
+                "y": 267.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_05114.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 43.0,
+                "width": 168.0,
+                "x": 421.0,
+                "y": 482.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_05112.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 91.0,
+                "width": 136.0,
+                "x": 397.0,
+                "y": 402.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_05111.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 182.0,
+                "width": 66.0,
+                "x": 93.0,
+                "y": 535.0
+            },
+            {
+                "class": "rect",
+                "height": 176.0,
+                "width": 418.0,
+                "x": 319.0,
+                "y": 337.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_05092.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 155.0,
+                "width": 262.0,
+                "x": 721.0,
+                "y": 330.0
+            },
+            {
+                "class": "rect",
+                "height": 114.0,
+                "width": 246.0,
+                "x": 379.0,
+                "y": 72.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_05082.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 84.0,
+                "width": 123.0,
+                "x": 373.0,
+                "y": 390.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_05070.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 247.0,
+                "width": 94.0,
+                "x": 573.0,
+                "y": 179.0
+            },
+            {
+                "class": "rect",
+                "height": 87.0,
+                "width": 284.0,
+                "x": 711.0,
+                "y": 161.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_05009.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 89.0,
+                "width": 251.0,
+                "x": 578.0,
+                "y": 469.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_04996.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 97.0,
+                "width": 451.0,
+                "x": 699.0,
+                "y": 239.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_04992.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 165.0,
+                "width": 73.0,
+                "x": 418.0,
+                "y": 361.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_04988.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 125.0,
+                "width": 93.0,
+                "x": 639.0,
+                "y": 366.0
+            },
+            {
+                "class": "rect",
+                "height": 273.0,
+                "width": 102.0,
+                "x": 759.0,
+                "y": 259.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_04967.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 241.0,
+                "width": 511.0,
+                "x": 726.0,
+                "y": 339.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_04966.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 205.0,
+                "width": 202.0,
+                "x": 108.0,
+                "y": 181.0
+            },
+            {
+                "class": "rect",
+                "height": 117.0,
+                "width": 275.0,
+                "x": 689.0,
+                "y": 144.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_04948.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 141.0,
+                "width": 126.0,
+                "x": 808.0,
+                "y": 285.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_04928.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 201.0,
+                "width": 126.0,
+                "x": 158.0,
+                "y": 149.0
+            },
+            {
+                "class": "rect",
+                "height": 103.0,
+                "width": 275.0,
+                "x": 650.0,
+                "y": 85.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_04880.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 101.0,
+                "width": 84.0,
+                "x": 755.0,
+                "y": 335.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_04873.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 107.0,
+                "width": 455.0,
+                "x": 733.0,
+                "y": 234.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_04851.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 113.0,
+                "width": 353.0,
+                "x": 667.0,
+                "y": 136.0
+            },
+            {
+                "class": "rect",
+                "height": 130.0,
+                "width": 228.0,
+                "x": 128.0,
+                "y": 430.0
+            },
+            {
+                "class": "rect",
+                "height": 223.0,
+                "width": 93.0,
+                "x": 28.0,
+                "y": 230.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_04826.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 158.0,
+                "width": 64.0,
+                "x": 422.0,
+                "y": 364.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_04820.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 130.0,
+                "width": 494.0,
+                "x": 564.0,
+                "y": 222.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_04779.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 179.0,
+                "width": 57.0,
+                "x": 92.0,
+                "y": 539.0
+            },
+            {
+                "class": "rect",
+                "height": 174.0,
+                "width": 408.0,
+                "x": 330.0,
+                "y": 336.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_04769.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 192.0,
+                "width": 97.0,
+                "x": 386.0,
+                "y": 340.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_04751.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 90.0,
+                "width": 92.0,
+                "x": 636.0,
+                "y": 400.0
+            },
+            {
+                "class": "rect",
+                "height": 280.0,
+                "width": 120.0,
+                "x": 769.0,
+                "y": 257.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_04717.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 144.0,
+                "width": 134.0,
+                "x": 798.0,
+                "y": 283.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_04702.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 66.0,
+                "width": 234.0,
+                "x": 352.0,
+                "y": 431.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_04693.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 107.0,
+                "width": 99.0,
+                "x": 634.0,
+                "y": 382.0
+            },
+            {
+                "class": "rect",
+                "height": 277.0,
+                "width": 124.0,
+                "x": 760.0,
+                "y": 257.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_04685.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 81.0,
+                "width": 133.0,
+                "x": 440.0,
+                "y": 403.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_04680.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 245.0,
+                "width": 508.0,
+                "x": 725.0,
+                "y": 340.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_04652.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 217.0,
+                "width": 325.0,
+                "x": 630.0,
+                "y": 9.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_04636.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 148.0,
+                "width": 410.0,
+                "x": 701.0,
+                "y": 186.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_04617.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 141.0,
+                "width": 117.0,
+                "x": 627.0,
+                "y": 348.0
+            },
+            {
+                "class": "rect",
+                "height": 267.0,
+                "width": 120.0,
+                "x": 769.0,
+                "y": 253.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_04592.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 149.0,
+                "width": 129.0,
+                "x": 803.0,
+                "y": 282.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_04565.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 65.0,
+                "width": 225.0,
+                "x": 360.0,
+                "y": 432.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_04556.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 120.0,
+                "width": 97.0,
+                "x": 635.0,
+                "y": 378.0
+            },
+            {
+                "class": "rect",
+                "height": 282.0,
+                "width": 127.0,
+                "x": 760.0,
+                "y": 254.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_04548.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 165.0,
+                "width": 62.0,
+                "x": 420.0,
+                "y": 360.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_04530.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 177.0,
+                "width": 426.0,
+                "x": 315.0,
+                "y": 336.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_04495.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 134.0,
+                "width": 98.0,
+                "x": 636.0,
+                "y": 358.0
+            },
+            {
+                "class": "rect",
+                "height": 281.0,
+                "width": 120.0,
+                "x": 764.0,
+                "y": 268.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_04494.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 164.0,
+                "width": 64.0,
+                "x": 422.0,
+                "y": 358.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_04484.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 123.0,
+                "width": 101.0,
+                "x": 636.0,
+                "y": 365.0
+            },
+            {
+                "class": "rect",
+                "height": 264.0,
+                "width": 109.0,
+                "x": 765.0,
+                "y": 266.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_04448.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 60.0,
+                "width": 235.0,
+                "x": 301.0,
+                "y": 409.0
+            },
+            {
+                "class": "rect",
+                "height": 216.0,
+                "width": 64.0,
+                "x": 143.0,
+                "y": 454.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_04434.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 80.0,
+                "width": 135.0,
+                "x": 416.0,
+                "y": 406.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_04396.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 120.0,
+                "width": 104.0,
+                "x": 632.0,
+                "y": 362.0
+            },
+            {
+                "class": "rect",
+                "height": 265.0,
+                "width": 101.0,
+                "x": 763.0,
+                "y": 262.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_04391.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 157.0,
+                "width": 418.0,
+                "x": 698.0,
+                "y": 186.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_04380.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 89.0,
+                "width": 127.0,
+                "x": 353.0,
+                "y": 383.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_04371.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 173.0,
+                "width": 221.0,
+                "x": 669.0,
+                "y": 269.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_04366.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 178.0,
+                "width": 373.0,
+                "x": 849.0,
+                "y": 204.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_04253.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 79.0,
+                "width": 139.0,
+                "x": 450.0,
+                "y": 405.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_04238.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 200.0,
+                "width": 242.0,
+                "x": 668.0,
+                "y": 3.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_04150.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 245.0,
+                "width": 525.0,
+                "x": 709.0,
+                "y": 337.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_04123.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 188.0,
+                "width": 88.0,
+                "x": 393.0,
+                "y": 346.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_04072.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 239.0,
+                "width": 505.0,
+                "x": 730.0,
+                "y": 340.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_04064.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 207.0,
+                "width": 58.0,
+                "x": 143.0,
+                "y": 457.0
+            },
+            {
+                "class": "rect",
+                "height": 68.0,
+                "width": 248.0,
+                "x": 345.0,
+                "y": 407.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_04060.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 154.0,
+                "width": 104.0,
+                "x": 546.0,
+                "y": 446.0
+            },
+            {
+                "class": "rect",
+                "height": 160.0,
+                "width": 121.0,
+                "x": 593.0,
+                "y": 452.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_04057.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 176.0,
+                "width": 406.0,
+                "x": 336.0,
+                "y": 336.0
+            },
+            {
+                "class": "rect",
+                "height": 178.0,
+                "width": 62.0,
+                "x": 97.0,
+                "y": 537.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_04012.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 154.0,
+                "width": 406.0,
+                "x": 704.0,
+                "y": 186.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_03979.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 118.0,
+                "width": 501.0,
+                "x": 621.0,
+                "y": 221.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_03975.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 156.0,
+                "width": 413.0,
+                "x": 703.0,
+                "y": 187.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_03951.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 182.0,
+                "width": 414.0,
+                "x": 329.0,
+                "y": 333.0
+            },
+            {
+                "class": "rect",
+                "height": 181.0,
+                "width": 69.0,
+                "x": 87.0,
+                "y": 537.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_03917.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 141.0,
+                "width": 502.0,
+                "x": 549.0,
+                "y": 220.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_03873.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 128.0,
+                "width": 109.0,
+                "x": 631.0,
+                "y": 358.0
+            },
+            {
+                "class": "rect",
+                "height": 265.0,
+                "width": 99.0,
+                "x": 763.0,
+                "y": 262.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_03841.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 114.0,
+                "width": 104.0,
+                "x": 632.0,
+                "y": 370.0
+            },
+            {
+                "class": "rect",
+                "height": 279.0,
+                "width": 122.0,
+                "x": 762.0,
+                "y": 253.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_03834.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 148.0,
+                "width": 510.0,
+                "x": 529.0,
+                "y": 218.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_03807.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 99.0,
+                "width": 87.0,
+                "x": 755.0,
+                "y": 333.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_03772.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 233.0,
+                "width": 310.0,
+                "x": 649.0,
+                "y": 6.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_03742.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 133.0,
+                "width": 405.0,
+                "x": 706.0,
+                "y": 201.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_03716.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 179.0,
+                "width": 431.0,
+                "x": 315.0,
+                "y": 333.0
+            },
+            {
+                "class": "rect",
+                "height": 174.0,
+                "width": 61.0,
+                "x": 93.0,
+                "y": 540.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_03646.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 148.0,
+                "width": 133.0,
+                "x": 801.0,
+                "y": 283.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_03572.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 104.0,
+                "width": 86.0,
+                "x": 754.0,
+                "y": 333.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_03530.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 142.0,
+                "width": 121.0,
+                "x": 808.0,
+                "y": 288.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_03526.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 74.0,
+                "width": 246.0,
+                "x": 345.0,
+                "y": 404.0
+            },
+            {
+                "class": "rect",
+                "height": 210.0,
+                "width": 60.0,
+                "x": 143.0,
+                "y": 456.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_03395.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 140.0,
+                "width": 126.0,
+                "x": 803.0,
+                "y": 285.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_03389.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 208.0,
+                "width": 204.0,
+                "x": 101.0,
+                "y": 173.0
+            },
+            {
+                "class": "rect",
+                "height": 119.0,
+                "width": 268.0,
+                "x": 690.0,
+                "y": 147.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_03383.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 118.0,
+                "width": 106.0,
+                "x": 631.0,
+                "y": 370.0
+            },
+            {
+                "class": "rect",
+                "height": 272.0,
+                "width": 122.0,
+                "x": 765.0,
+                "y": 261.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_03365.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 107.0,
+                "width": 83.0,
+                "x": 756.0,
+                "y": 334.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_03308.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 132.0,
+                "width": 410.0,
+                "x": 706.0,
+                "y": 200.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_03298.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 112.0,
+                "width": 496.0,
+                "x": 596.0,
+                "y": 225.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_03267.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 179.0,
+                "width": 192.0,
+                "x": 708.0,
+                "y": 4.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_03265.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 118.0,
+                "width": 104.0,
+                "x": 633.0,
+                "y": 370.0
+            },
+            {
+                "class": "rect",
+                "height": 264.0,
+                "width": 91.0,
+                "x": 763.0,
+                "y": 265.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_03246.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 172.0,
+                "width": 419.0,
+                "x": 322.0,
+                "y": 338.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_03243.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 121.0,
+                "width": 99.0,
+                "x": 634.0,
+                "y": 366.0
+            },
+            {
+                "class": "rect",
+                "height": 269.0,
+                "width": 118.0,
+                "x": 765.0,
+                "y": 260.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_03191.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 154.0,
+                "width": 398.0,
+                "x": 813.0,
+                "y": 217.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_03163.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 68.0,
+                "width": 245.0,
+                "x": 350.0,
+                "y": 404.0
+            },
+            {
+                "class": "rect",
+                "height": 226.0,
+                "width": 62.0,
+                "x": 142.0,
+                "y": 455.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_03133.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 155.0,
+                "width": 134.0,
+                "x": 808.0,
+                "y": 280.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_03132.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 65.0,
+                "width": 220.0,
+                "x": 357.0,
+                "y": 438.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_03076.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 123.0,
+                "width": 415.0,
+                "x": 773.0,
+                "y": 229.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_03070.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 105.0,
+                "width": 87.0,
+                "x": 754.0,
+                "y": 333.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_03066.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 150.0,
+                "width": 125.0,
+                "x": 807.0,
+                "y": 283.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_03049.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 80.0,
+                "width": 232.0,
+                "x": 357.0,
+                "y": 425.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_03022.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 193.0,
+                "width": 92.0,
+                "x": 389.0,
+                "y": 344.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_02959.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 167.0,
+                "width": 478.0,
+                "x": 526.0,
+                "y": 188.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_02955.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 146.0,
+                "width": 127.0,
+                "x": 804.0,
+                "y": 287.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_02942.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 37.0,
+                "width": 162.0,
+                "x": 428.0,
+                "y": 486.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_02874.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 72.0,
+                "width": 128.0,
+                "x": 388.0,
+                "y": 403.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_02831.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 170.0,
+                "width": 48.0,
+                "x": 433.0,
+                "y": 354.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_02802.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 182.0,
+                "width": 60.0,
+                "x": 537.0,
+                "y": 350.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_02792.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 92.0,
+                "width": 278.0,
+                "x": 496.0,
+                "y": 471.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_02773.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 129.0,
+                "width": 97.0,
+                "x": 637.0,
+                "y": 359.0
+            },
+            {
+                "class": "rect",
+                "height": 272.0,
+                "width": 90.0,
+                "x": 767.0,
+                "y": 262.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_02760.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 142.0,
+                "width": 123.0,
+                "x": 804.0,
+                "y": 285.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_02745.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 39.0,
+                "width": 174.0,
+                "x": 418.0,
+                "y": 486.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_02715.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 154.0,
+                "width": 411.0,
+                "x": 709.0,
+                "y": 185.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_02691.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 77.0,
+                "width": 298.0,
+                "x": 454.0,
+                "y": 491.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_02680.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 247.0,
+                "width": 520.0,
+                "x": 716.0,
+                "y": 337.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_02595.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 147.0,
+                "width": 121.0,
+                "x": 810.0,
+                "y": 285.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_02543.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 132.0,
+                "width": 289.0,
+                "x": 703.0,
+                "y": 245.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_02541.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 71.0,
+                "width": 242.0,
+                "x": 342.0,
+                "y": 405.0
+            },
+            {
+                "class": "rect",
+                "height": 220.0,
+                "width": 61.0,
+                "x": 142.0,
+                "y": 456.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_02528.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 184.0,
+                "width": 179.0,
+                "x": 103.0,
+                "y": 196.0
+            },
+            {
+                "class": "rect",
+                "height": 128.0,
+                "width": 276.0,
+                "x": 681.0,
+                "y": 135.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_02511.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 240.0,
+                "width": 458.0,
+                "x": 773.0,
+                "y": 342.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_02419.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 44.0,
+                "width": 169.0,
+                "x": 420.0,
+                "y": 483.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_02413.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 88.0,
+                "width": 132.0,
+                "x": 442.0,
+                "y": 402.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_02407.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 66.0,
+                "width": 261.0,
+                "x": 437.0,
+                "y": 500.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_02395.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 162.0,
+                "width": 262.0,
+                "x": 722.0,
+                "y": 325.0
+            },
+            {
+                "class": "rect",
+                "height": 180.0,
+                "width": 236.0,
+                "x": 380.0,
+                "y": 42.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_02377.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 117.0,
+                "width": 171.0,
+                "x": 455.0,
+                "y": 413.0
+            },
+            {
+                "class": "rect",
+                "height": 152.0,
+                "width": 51.0,
+                "x": 124.0,
+                "y": 468.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_02360.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 137.0,
+                "width": 415.0,
+                "x": 700.0,
+                "y": 195.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_02353.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 149.0,
+                "width": 411.0,
+                "x": 700.0,
+                "y": 186.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_02331.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 286.0,
+                "width": 101.0,
+                "x": 569.0,
+                "y": 180.0
+            },
+            {
+                "class": "rect",
+                "height": 90.0,
+                "width": 287.0,
+                "x": 712.0,
+                "y": 156.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_02202.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 76.0,
+                "width": 135.0,
+                "x": 462.0,
+                "y": 406.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_02198.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 180.0,
+                "width": 488.0,
+                "x": 507.0,
+                "y": 185.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_02177.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 105.0,
+                "width": 93.0,
+                "x": 750.0,
+                "y": 332.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_02160.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 217.0,
+                "width": 121.0,
+                "x": 553.0,
+                "y": 396.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_02099.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 127.0,
+                "width": 280.0,
+                "x": 707.0,
+                "y": 236.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_02084.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 157.0,
+                "width": 106.0,
+                "x": 637.0,
+                "y": 330.0
+            },
+            {
+                "class": "rect",
+                "height": 283.0,
+                "width": 104.0,
+                "x": 759.0,
+                "y": 260.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_02051.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 103.0,
+                "width": 88.0,
+                "x": 753.0,
+                "y": 333.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_02031.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 182.0,
+                "width": 68.0,
+                "x": 538.0,
+                "y": 347.0
+            },
+            {
+                "class": "rect",
+                "height": 214.0,
+                "width": 70.0,
+                "x": 116.0,
+                "y": 476.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_02011.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 162.0,
+                "width": 67.0,
+                "x": 420.0,
+                "y": 358.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_01993.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 104.0,
+                "width": 85.0,
+                "x": 751.0,
+                "y": 335.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_01982.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 104.0,
+                "width": 88.0,
+                "x": 753.0,
+                "y": 333.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_01957.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 117.0,
+                "width": 102.0,
+                "x": 634.0,
+                "y": 369.0
+            },
+            {
+                "class": "rect",
+                "height": 274.0,
+                "width": 97.0,
+                "x": 762.0,
+                "y": 264.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_01879.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 194.0,
+                "width": 93.0,
+                "x": 387.0,
+                "y": 339.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_01871.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 183.0,
+                "width": 420.0,
+                "x": 319.0,
+                "y": 332.0
+            },
+            {
+                "class": "rect",
+                "height": 175.0,
+                "width": 59.0,
+                "x": 89.0,
+                "y": 538.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_01866.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 67.0,
+                "width": 256.0,
+                "x": 338.0,
+                "y": 405.0
+            },
+            {
+                "class": "rect",
+                "height": 224.0,
+                "width": 60.0,
+                "x": 142.0,
+                "y": 454.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_01814.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 165.0,
+                "width": 71.0,
+                "x": 418.0,
+                "y": 357.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_01807.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 138.0,
+                "width": 406.0,
+                "x": 705.0,
+                "y": 201.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_01697.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 244.0,
+                "width": 496.0,
+                "x": 738.0,
+                "y": 339.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_01692.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 210.0,
+                "width": 214.0,
+                "x": 103.0,
+                "y": 172.0
+            },
+            {
+                "class": "rect",
+                "height": 120.0,
+                "width": 273.0,
+                "x": 691.0,
+                "y": 141.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_01678.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 155.0,
+                "width": 412.0,
+                "x": 704.0,
+                "y": 185.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_01664.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 65.0,
+                "width": 222.0,
+                "x": 355.0,
+                "y": 433.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_01656.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 179.0,
+                "width": 69.0,
+                "x": 537.0,
+                "y": 348.0
+            },
+            {
+                "class": "rect",
+                "height": 195.0,
+                "width": 70.0,
+                "x": 123.0,
+                "y": 485.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_01648.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 128.0,
+                "width": 255.0,
+                "x": 646.0,
+                "y": 462.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_01639.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 88.0,
+                "width": 133.0,
+                "x": 331.0,
+                "y": 393.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_01559.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 137.0,
+                "width": 106.0,
+                "x": 636.0,
+                "y": 351.0
+            },
+            {
+                "class": "rect",
+                "height": 282.0,
+                "width": 100.0,
+                "x": 764.0,
+                "y": 259.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_01534.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 131.0,
+                "width": 162.0,
+                "x": 473.0,
+                "y": 327.0
+            },
+            {
+                "class": "rect",
+                "height": 188.0,
+                "width": 87.0,
+                "x": 114.0,
+                "y": 485.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_01526.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 148.0,
+                "width": 405.0,
+                "x": 705.0,
+                "y": 188.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_01522.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 139.0,
+                "width": 402.0,
+                "x": 706.0,
+                "y": 200.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_01483.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 68.0,
+                "width": 44.0,
+                "x": 950.0,
+                "y": 282.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_01452.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 153.0,
+                "width": 405.0,
+                "x": 704.0,
+                "y": 183.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_01451.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 86.0,
+                "width": 125.0,
+                "x": 381.0,
+                "y": 392.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_01428.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 103.0,
+                "width": 468.0,
+                "x": 658.0,
+                "y": 230.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_01425.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 163.0,
+                "width": 466.0,
+                "x": 535.0,
+                "y": 187.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_01423.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 66.0,
+                "width": 233.0,
+                "x": 357.0,
+                "y": 428.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_01418.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 137.0,
+                "width": 103.0,
+                "x": 636.0,
+                "y": 346.0
+            },
+            {
+                "class": "rect",
+                "height": 264.0,
+                "width": 99.0,
+                "x": 768.0,
+                "y": 260.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_01400.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 88.0,
+                "width": 139.0,
+                "x": 462.0,
+                "y": 406.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_01356.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 152.0,
+                "width": 50.0,
+                "x": 118.0,
+                "y": 473.0
+            },
+            {
+                "class": "rect",
+                "height": 99.0,
+                "width": 222.0,
+                "x": 399.0,
+                "y": 428.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_01349.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 124.0,
+                "width": 101.0,
+                "x": 633.0,
+                "y": 360.0
+            },
+            {
+                "class": "rect",
+                "height": 280.0,
+                "width": 115.0,
+                "x": 766.0,
+                "y": 249.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_01327.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 151.0,
+                "width": 354.0,
+                "x": 333.0,
+                "y": 335.0
+            },
+            {
+                "class": "rect",
+                "height": 180.0,
+                "width": 63.0,
+                "x": 90.0,
+                "y": 534.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_01175.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 85.0,
+                "width": 135.0,
+                "x": 436.0,
+                "y": 403.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_01080.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 168.0,
+                "width": 365.0,
+                "x": 871.0,
+                "y": 203.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_01044.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 151.0,
+                "width": 403.0,
+                "x": 707.0,
+                "y": 185.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_01019.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 132.0,
+                "width": 392.0,
+                "x": 711.0,
+                "y": 202.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_00908.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 41.0,
+                "width": 167.0,
+                "x": 425.0,
+                "y": 482.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_00886.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 158.0,
+                "width": 400.0,
+                "x": 707.0,
+                "y": 181.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_00862.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 65.0,
+                "width": 246.0,
+                "x": 328.0,
+                "y": 408.0
+            },
+            {
+                "class": "rect",
+                "height": 209.0,
+                "width": 66.0,
+                "x": 138.0,
+                "y": 454.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_00851.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 63.0,
+                "width": 257.0,
+                "x": 420.0,
+                "y": 510.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_00848.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 125.0,
+                "width": 105.0,
+                "x": 632.0,
+                "y": 365.0
+            },
+            {
+                "class": "rect",
+                "height": 282.0,
+                "width": 122.0,
+                "x": 763.0,
+                "y": 255.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_00821.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 240.0,
+                "width": 511.0,
+                "x": 719.0,
+                "y": 341.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_00814.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 81.0,
+                "width": 129.0,
+                "x": 397.0,
+                "y": 400.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_00802.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 108.0,
+                "width": 87.0,
+                "x": 753.0,
+                "y": 331.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_00781.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 144.0,
+                "width": 128.0,
+                "x": 804.0,
+                "y": 286.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_00721.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 198.0,
+                "width": 86.0,
+                "x": 113.0,
+                "y": 476.0
+            },
+            {
+                "class": "rect",
+                "height": 157.0,
+                "width": 196.0,
+                "x": 438.0,
+                "y": 324.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_00698.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 120.0,
+                "width": 285.0,
+                "x": 707.0,
+                "y": 245.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_00691.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 181.0,
+                "width": 62.0,
+                "x": 539.0,
+                "y": 347.0
+            },
+            {
+                "class": "rect",
+                "height": 191.0,
+                "width": 59.0,
+                "x": 126.0,
+                "y": 476.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_00670.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 154.0,
+                "width": 408.0,
+                "x": 700.0,
+                "y": 188.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_00639.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 152.0,
+                "width": 491.0,
+                "x": 516.0,
+                "y": 208.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_00631.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 184.0,
+                "width": 82.0,
+                "x": 395.0,
+                "y": 345.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_00589.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 116.0,
+                "width": 285.0,
+                "x": 705.0,
+                "y": 249.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_00574.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 220.0,
+                "width": 128.0,
+                "x": 554.0,
+                "y": 400.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_00485.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 181.0,
+                "width": 64.0,
+                "x": 537.0,
+                "y": 346.0
+            },
+            {
+                "class": "rect",
+                "height": 199.0,
+                "width": 66.0,
+                "x": 128.0,
+                "y": 486.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_00472.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 217.0,
+                "width": 253.0,
+                "x": 682.0,
+                "y": 3.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_00453.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 72.0,
+                "width": 230.0,
+                "x": 355.0,
+                "y": 428.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_00434.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 84.0,
+                "width": 227.0,
+                "x": 359.0,
+                "y": 425.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_00433.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 77.0,
+                "width": 230.0,
+                "x": 353.0,
+                "y": 428.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_00412.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 110.0,
+                "width": 286.0,
+                "x": 706.0,
+                "y": 254.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_00397.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 141.0,
+                "width": 115.0,
+                "x": 816.0,
+                "y": 282.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_00368.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 163.0,
+                "width": 55.0,
+                "x": 441.0,
+                "y": 356.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_00359.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 106.0,
+                "width": 82.0,
+                "x": 757.0,
+                "y": 330.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_00332.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 74.0,
+                "width": 228.0,
+                "x": 354.0,
+                "y": 428.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_00305.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 108.0,
+                "width": 284.0,
+                "x": 705.0,
+                "y": 252.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_00267.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 137.0,
+                "width": 132.0,
+                "x": 562.0,
+                "y": 582.0
+            },
+            {
+                "class": "rect",
+                "height": 99.0,
+                "width": 52.0,
+                "x": 713.0,
+                "y": 333.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_00263.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 159.0,
+                "width": 404.0,
+                "x": 825.0,
+                "y": 209.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_00262.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 99.0,
+                "width": 159.0,
+                "x": 457.0,
+                "y": 435.0
+            },
+            {
+                "class": "rect",
+                "height": 149.0,
+                "width": 53.0,
+                "x": 123.0,
+                "y": 471.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_00261.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 119.0,
+                "width": 292.0,
+                "x": 702.0,
+                "y": 247.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_00226.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 103.0,
+                "width": 54.0,
+                "x": 710.0,
+                "y": 334.0
+            },
+            {
+                "class": "rect",
+                "height": 136.0,
+                "width": 113.0,
+                "x": 571.0,
+                "y": 582.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_00183.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 125.0,
+                "width": 96.0,
+                "x": 639.0,
+                "y": 361.0
+            },
+            {
+                "class": "rect",
+                "height": 259.0,
+                "width": 89.0,
+                "x": 764.0,
+                "y": 262.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_00127.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 248.0,
+                "width": 285.0,
+                "x": 689.0,
+                "y": 5.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_00126.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 79.0,
+                "width": 125.0,
+                "x": 379.0,
+                "y": 395.0
+            }
+        ],
+        "class": "image",
+        "filename": "../data/train/OTHER/img_00063.jpg"
+    }
+]
