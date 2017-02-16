@@ -22,9 +22,6 @@ Similar to `ensemble model`, but uses the "fish detector" model to segment out t
 ### bb_crops.ipynb
 Uses annotations to crop training images down to a bounding box surrounding the fish
 
-### bb_splits.ipynb
-Util notebook for splitting cropped data into training and test sets
-
 ### bb_regressor.ipynb
 Trains model on cropped data to predict coordinates of bounding box in test images
 
