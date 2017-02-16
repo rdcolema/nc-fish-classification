@@ -10,7 +10,7 @@ Fits a group of CNNs of (optionally) varying architectures on the image data; pr
 ### conv_model.ipynb
 Computes and saves the convolutional features from a pretrained VGG model w/ batch normalization; uses these features to train a new model on the image data
 
-### pytorch_mdodel.ipynb
+### pytorch_model.ipynb
 Uses pretrained PyTorch models with both train-time and test-time augmentation. Have only tested resnet architecture so far, but currently produces third best single model (after "ensemble_model" and "conv_model"). 
 
 ### fish_detector.ipynb
