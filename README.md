@@ -40,6 +40,9 @@ Same as above, but using gradient boosting instead of SVM
 ### sliding_window.ipynb
 Uses a sliding window to feed subsets of image into CNN for classification
 
+### image_ops.ipynb
+Transformations that could be useful for preprocessing / image segmentation. 
+
 ### submission_blender.ipynb
 Combines submission files into simple ensemble
 
