@@ -180,7 +180,7 @@ class Inception():
 
         model = self.model = Model(inception.input, output)
         model.compile(loss='categorical_crossentropy',
-                      optimizer=optimizers.SGD(lr=1e-4, momentum=0.9, decay=0.0, nesterov=True),
+                      optimizer=optimizers.SGD(lr=self.lr, momentum=0.9, decay=0.0, nesterov=True),
                       metrics=["accuracy"])
         return model
 
@@ -297,7 +297,7 @@ class Resnet50():
         Dense(self.n_classes, activation='softmax')
         m = Dense(self.n_classes, activation='softmax')(m)
         self.model = Model(self.model.input, m)
-        self.model.compile(optimizer=optimizers.Adam(), loss='categorical_crossentropy', metrics=['accuracy'])
+        self.model.compile(optimizer=optimizers.Adam(lr=self.lr), loss='categorical_crossentropy', metrics=['accuracy'])
         return self.model
 
     def build_precomputed(self):
@@ -312,7 +312,7 @@ class Resnet50():
             Dropout(self.dropout),
             Dense(self.n_classes, activation="softmax"),
             ])
-        self.model.compile(optimizer=optimizers.Adam(), loss='categorical_crossentropy', metrics=['accuracy'])
+        self.model.compile(optimizer=optimizers.Adam(lr=self.lr), loss='categorical_crossentropy', metrics=['accuracy'])
         return self.model
 
     def get_datagen(self, aug=False):
