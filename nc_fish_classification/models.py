@@ -97,7 +97,8 @@ class Vgg16BN():
         model.add(Dropout(self.dropout))
         model.add(Dense(self.n_classes, activation='softmax'))
 
-        model.compile(loss='categorical_crossentropy', optimizer="adadelta", metrics=["accuracy"])
+        optim = optimizers.Adadelta(lr=self.lr)
+        model.compile(loss='categorical_crossentropy', optimizer=optim, metrics=["accuracy"])
         return model
 
     def get_datagen(self, aug=False):
