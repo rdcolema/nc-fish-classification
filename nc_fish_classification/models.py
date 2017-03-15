@@ -97,8 +97,9 @@ class Vgg16BN():
         model.add(Dropout(self.dropout))
         model.add(Dense(self.n_classes, activation='softmax'))
 
-        optim = optimizers.Adadelta(lr=self.lr)
-        model.compile(loss='categorical_crossentropy', optimizer=optim, metrics=["accuracy"])
+        optimizer = optimizers.Adadelta(lr=self.lr)
+
+        model.compile(loss='categorical_crossentropy', optimizer=optimizer, metrics=["accuracy"])
         return model
 
     def get_datagen(self, aug=False):
@@ -109,22 +110,18 @@ class Vgg16BN():
         return ImageDataGenerator()
 
     def fit_val(self, trn_path, val_path, nb_trn_samples, nb_val_samples, nb_epoch=1, callbacks=[], aug=False):
-        """
-        Custom fit method for training with validation data and option for data augmentation"
-        """
+        """Custom fit method for training with validation data and option for data augmentation"""
         train_datagen = self.get_datagen(aug=aug)
         trn_gen = train_datagen.flow_from_directory(trn_path, target_size=self.size, batch_size=self.batch_size,
                                                     class_mode='categorical', shuffle=True)
         val_gen = ImageDataGenerator().flow_from_directory(val_path, target_size=self.size, batch_size=self.batch_size,
                                                            class_mode='categorical', shuffle=True)
         self.model.fit_generator(trn_gen, samples_per_epoch=nb_trn_samples, nb_epoch=nb_epoch, verbose=2,
-                validation_data=val_gen, nb_val_samples=nb_val_samples, callbacks=callbacks)
+                                 validation_data=val_gen, nb_val_samples=nb_val_samples, callbacks=callbacks)
 
 
     def fit_full(self, trn_path, nb_trn_samples, nb_epoch=1, callbacks=[], aug=False):
-        """
-        Custom fit method for training without validation data and option for data augmentation
-        """
+        """Custom fit method for training without validation data and option for data augmentation"""
         train_datagen = self.get_datagen(aug=aug)
         trn_gen = train_datagen.flow_from_directory(trn_path, target_size=self.size, batch_size=self.batch_size,
                                                     class_mode='categorical', shuffle=True)
@@ -132,9 +129,7 @@ class Vgg16BN():
                 callbacks=callbacks)
 
     def test(self, test_path, nb_test_samples, aug=False):
-        """
-        Custom prediction method with option for data augmentation
-        """
+        """Custom prediction method with option for data augmentation"""
         test_datagen = self.get_datagen(aug=aug)
         test_gen = test_datagen.flow_from_directory(test_path, target_size=self.size, batch_size=self.batch_size,
                                                     class_mode=None, shuffle=False)
@@ -152,10 +147,8 @@ def inception_preprocess(x):
 
 
 class Inception():
-    """
-    The VGG 16 Imagenet model with Batch Normalization for the Dense Layers
-    """
-    def __init__(self, size=(224, 224), n_classes=2, lr=0.001, batch_size=64):
+    """The VGG 16 Imagenet model with Batch Normalization for the Dense Layers"""
+    def __init__(self, size=(299, 299), n_classes=2, lr=0.001, batch_size=64):
         self.size = size
         self.n_classes = n_classes
         self.lr = lr
@@ -163,9 +156,8 @@ class Inception():
 
     def build(self):
         """
-        Loads preconstructed inception model from keras without top classification layer;
-        Stacks custom classification layer on top;
-        Returns stacked model
+            Loads preconstructed inception model from keras without top classification layer;
+            Stacks custom classification layer on top;
         """
         img_input = Input(shape=(3, self.size[0], self.size[1]))
         inception = InceptionV3(include_top=False, weights='imagenet', input_tensor=img_input)
@@ -180,7 +172,7 @@ class Inception():
 
         model = self.model = Model(inception.input, output)
         model.compile(loss='categorical_crossentropy',
-                      optimizer=optimizers.SGD(lr=self.lr, momentum=0.9, decay=0.0, nesterov=True),
+                      optimizer=optimizers.SGD(lr=1e-4, momentum=0.9, decay=0.0, nesterov=True),
                       metrics=["accuracy"])
         return model
 
@@ -192,9 +184,7 @@ class Inception():
         return ImageDataGenerator(preprocessing_function=inception_preprocess)
 
     def fit_val(self, trn_path, val_path, nb_trn_samples, nb_val_samples, nb_epoch=1, callbacks=[], aug=False):
-        """
-        Custom fit method for training with validation data and option for data augmentation"
-        """
+        """Custom fit method for training with validation data and option for data augmentation"""
         train_datagen = self.get_datagen(aug=aug)
         val_datagen = self.get_datagen(aug=False)
 
@@ -207,9 +197,7 @@ class Inception():
 
 
     def fit_full(self, trn_path, nb_trn_samples, nb_epoch=1, callbacks=[], aug=False):
-        """
-        Custom fit method for training without validation data and option for data augmentation
-        """
+        """Custom fit method for training without validation data and option for data augmentation"""
         train_datagen = self.get_datagen(aug=aug)
 
         trn_gen = train_datagen.flow_from_directory(trn_path, target_size=self.size, batch_size=self.batch_size,
@@ -218,9 +206,7 @@ class Inception():
                                  callbacks=callbacks)
 
     def test(self, test_path, nb_test_samples, aug=False):
-        """
-        Custom prediction method with option for data augmentation
-        """
+        """Custom prediction method with option for data augmentation"""
         test_datagen = self.get_datagen(aug=aug)
         test_gen = test_datagen.flow_from_directory(test_path, target_size=self.size, batch_size=self.batch_size,
                                                     class_mode=None, shuffle=False)
@@ -232,9 +218,8 @@ class Inception():
 
 
 class Resnet50():
-    """
-    The Resnet 50 Imagenet model
-    """
+    """The Resnet 50 Imagenet model"""
+
     def __init__(self, size=(224, 224), n_classes=2, lr=0.001, batch_size=64, dropout=0.2):
         self.weights_file = 'resnet_nt.h5'  # download from: http://www.platform.ai/models/
         self.size = size
@@ -244,9 +229,7 @@ class Resnet50():
         self.dropout = dropout
 
     def get_base(self):
-        """
-        Gets base architecture of Resnet 50 Model
-        """
+        """Gets base architecture of Resnet 50 Model"""
         input_shape = (3,) + self.size
         img_input = Input(shape=input_shape)
         bn_axis = 1
@@ -282,15 +265,12 @@ class Resnet50():
         self.model.load_weights(self.weights_file)
 
     def build(self):
-        """
-        Builds the model and stacks global average pooling layer on top;
-        Returns model
-        """
+        """Builds the model and stacks global average pooling layer on top"""
         self.get_base()
         self.model.layers.pop()
 
         for layer in self.model.layers:
-            layer.trainable=False
+            layer.trainable = False
 
         m = GlobalAveragePooling2D()(self.model.layers[-1].output)
         m = Dropout(self.dropout)(m)
@@ -302,9 +282,8 @@ class Resnet50():
 
     def build_precomputed(self):
         """
-        Builds the model based on output of last layer of base architecture;
-        Used for training with bottleneck features;
-        Returns model
+            Builds the model based on output of last layer of base architecture;
+            Used for training with bottleneck features;
         """
         self.get_base()
         self.model = Sequential(
@@ -323,9 +302,7 @@ class Resnet50():
         return ImageDataGenerator()
 
     def fit_val(self, trn_path, val_path, nb_trn_samples, nb_val_samples, nb_epoch=1, callbacks=[], aug=False):
-        """
-        Custom fit method for training with validation data and option for data augmentation"
-        """
+        """Custom fit method for training with validation data and option for data augmentation"""
         train_datagen = self.get_datagen(aug=aug)
         val_datagen = self.get_datagen(aug=False)
 
@@ -337,20 +314,16 @@ class Resnet50():
                 validation_data=val_gen, nb_val_samples=nb_val_samples, callbacks=callbacks)
 
     def fit_full(self, trn_path, nb_trn_samples, nb_epoch=1, callbacks=[], aug=False):
-        """
-        Custom fit method for training without validation data and option for data augmentation
-        """
+        """Custom fit method for training without validation data and option for data augmentation"""
         train_datagen = self.get_datagen(aug=aug)
 
         trn_gen = train_datagen.flow_from_directory(trn_path, target_size=self.size, batch_size=self.batch_size,
                                                     class_mode='categorical', shuffle=True)
         self.model.fit_generator(trn_gen, samples_per_epoch=nb_trn_samples, nb_epoch=nb_epoch, verbose=2,
-                callbacks=callbacks)
+                                 callbacks=callbacks)
 
     def test(self, test_path, nb_test_samples, aug=False):
-        """
-        Custom prediction method with option for data augmentation
-        """
+        """Custom prediction method with option for data augmentation"""
         test_datagen = self.get_datagen(aug=aug)
         test_gen = test_datagen.flow_from_directory(test_path, target_size=self.size, batch_size=self.batch_size,
                                                     class_mode=None, shuffle=False)
